@@ -1,5 +1,5 @@
 import pytest
-from clock import Timer
+from tomatoclock.clock import Timer
 
 
 class TestTimer:

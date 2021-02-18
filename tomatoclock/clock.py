@@ -1,7 +1,7 @@
 import time
 import datetime
-from util.all_util import is_integer_num
-from util.all_util import exit_program
+from tomatoclock.util.all_util import is_integer_num
+from tomatoclock.util.all_util import exit_program
 
 
 class Timer():
